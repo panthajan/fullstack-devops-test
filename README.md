@@ -18,15 +18,18 @@ a. React Application
     3. Use OnChange
 
 2.  Api
-  a. Get
-  b. POST
+  a. Get( SHow existing Data from News List)
+  b. POST ( Insert data to News List)
+
 
 4. Redis(Pub/Sub)
    a. Cache
    b. Publish To Worker Node
    
+   
 6. Worker Node
    a. Subscriber
+   
    
 8. Database
    a. All date will Save here
