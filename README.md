@@ -6,6 +6,7 @@ The deployment scenario is as below:
 
 
 1. Client App (Nginx LB)
+   
 Frontend==WebApplication==
 We can do on the frontend;
   a. View News List
@@ -22,14 +23,14 @@ a. React Application
   b. POST ( Insert data to News List)
 
 
-4. Redis(Pub/Sub)
+3. Redis(Pub/Sub)
    a. Cache
    b. Publish To Worker Node
    
    
-6. Worker Node
+4. Worker Node
    a. Subscriber
    
    
-8. Database
-   a. All date will Save here
+5. Database
+   a. All inserted date will Save here
