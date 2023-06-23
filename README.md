@@ -19,16 +19,17 @@ b. News Create
             3. Use OnChange
 
 2.  Api
-3.  
+  
     a. Get( SHow existing Data from News List)
     b. POST ( Insert data to News List)
 
-4.  Redis(Pub/Sub)
-5.  
+3.  Redis(Pub/Sub)
+    
     a. Cache
     b. Publish To Worker Node
-6.  Worker Node
-7.  
+4.  Worker Node
+    
     a. Subscriber
-8.  Database
-    a. All inserted date will Save here
+    
+5.  Database
+    a. All inserted data will Save here
