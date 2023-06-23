@@ -8,6 +8,7 @@ The deployment scenario is as below:
 
 Frontend==WebApplication==
 We can do this on the Frontend below things;
+
 a. View News List
 b. News Create
 
@@ -18,13 +19,16 @@ b. News Create
             3. Use OnChange
 
 2.  Api
+3.  
     a. Get( SHow existing Data from News List)
     b. POST ( Insert data to News List)
 
-3.  Redis(Pub/Sub)
+4.  Redis(Pub/Sub)
+5.  
     a. Cache
     b. Publish To Worker Node
-4.  Worker Node
+6.  Worker Node
+7.  
     a. Subscriber
-5.  Database
+8.  Database
     a. All inserted date will Save here
