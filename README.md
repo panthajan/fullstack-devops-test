@@ -19,20 +19,20 @@ The deployment scenario is as below:
 
 2.  API
 
-a. Get( SHow existing Data from News List)
+    a. Get( SHow existing Data from News List)
 
-b. POST ( Insert data to News List)
+    b. POST ( Insert data to News List)
 
 3.  Redis(Pub/Sub)
 
-a. Cache
+    a. Cache
 
-b. Publish To Worker Node
+    b. Publish To Worker Node
 
 4.  Worker Node
 
-a. Subscriber
+    a. Subscriber
 
 5.  Database
 
-a. All inserted date will Save here
+    a. All inserted date will Save here
