@@ -26,13 +26,13 @@ b. News Create
     a. Get( SHow existing Data from News List)
     b. POST ( Insert data to News List)
 
-3.  Redis(Pub/Sub)
+4.  Redis(Pub/Sub)
     
     a. Cache
     b. Publish To Worker Node
-4.  Worker Node
+5.  Worker Node
     
     a. Subscriber
     
-5.  Database
+6.  Database
     a. All inserted data will Save here
