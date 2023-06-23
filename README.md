@@ -24,7 +24,9 @@ a. React Application
 4. Redis(Pub/Sub)
    a. Cache
    b. Publish To Worker Node
-5. Worker Node
+   
+6. Worker Node
    a. Subscriber
-6. Database
+   
+8. Database
    a. All date will Save here
