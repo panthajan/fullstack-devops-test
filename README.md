@@ -7,16 +7,18 @@ The deployment scenario is as below:
 1. Client App (Nginx LB)
 
 Frontend==WebApplication==
+
 We can do this on the Frontend below things;
 
 a. View News List
 b. News Create
 
     Development Environment:
+    
         a. React Application
-            1. One form
-            2. Input Field
-            3. Use OnChange
+            1. One form is there
+            2. Input Field for insert news
+            3. Use OnChange for insert news
 
 2.  Api
   
