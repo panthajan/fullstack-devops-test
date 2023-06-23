@@ -7,7 +7,7 @@ The deployment scenario is as below:
 1. Client App (Nginx LB)
 
 Frontend==WebApplication==
-We can do on the frontend;
+We can do this on the Frontend below things;
 a. View News List
 b. News Create
 
