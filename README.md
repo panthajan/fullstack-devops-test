@@ -17,7 +17,7 @@ The deployment scenario is as below:
                 2. Input Field
                 3. Use OnChange
 
-2.  API
+2.  API (Rest API Express Framework Used)
 
     a. Get( Show existing Data from News List)
 
