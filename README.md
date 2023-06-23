@@ -17,7 +17,7 @@ b. News Create
             2. Input Field
             3. Use OnChange
 
-2.  Api
+2.  Api (Rest Api Server)
     a. Get( SHow existing Data from News List)
     b. POST ( Insert data to News List)
 
