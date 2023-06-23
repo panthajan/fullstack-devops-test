@@ -10,9 +10,8 @@ Frontend==WebApplication==
 
 We can do this on the Frontend below things;
 
-a. View News List
-
-b. News Create
+    a. View News List
+    b. News Create
 
     Development Environment:
     
