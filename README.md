@@ -13,7 +13,7 @@ Explanation:
 
 ===Component Overview===
 
-1.  Client App (Nginx LB) Frontend
+1.  Client App Frontend
     We can do on the frontend;
     a. View News List
     b. News Create
