@@ -3,7 +3,8 @@
 The deployment scenario is as below:
 
 
-![image](https://github.com/panthajan/fullstack-devops-test/assets/19544130/c83ba923-d239-4448-ba5c-e523edbf7421)
+![image](https://github.com/panthajan/fullstack-devops-test/assets/19544130/a3303e00-cfb7-48c5-aaae-73a471e9fd2a)
+
 
 
 Explanation:
