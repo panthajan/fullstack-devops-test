@@ -42,6 +42,6 @@ Explanation:
 
     a. Subscriber from Published, When any new write request comes subscriber gets notices from the publisher to write on DB.
 
-5.  Database
+5.  Database (MySQL DB)
 
     a. All inserted (Post request) data will Save here
