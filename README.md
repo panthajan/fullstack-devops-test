@@ -1,8 +1,10 @@
-===Full stack Application Deployment===
+===Full stack Micro service Application Deployment===
 
 The deployment scenario is as below:
 
 ![image](https://github.com/panthajan/fullstack-devops-test/assets/19544130/611f6d18-8bfd-4def-8d1d-1df1212afc74)
+
+===Component Overview===
 
 1.  Client App (Nginx LB) Frontend
     We can do on the frontend;
@@ -15,7 +17,7 @@ The deployment scenario is as below:
 
                 1. One form
                 2. Input Field
-                3. Use OnChange
+                3. Use OnChange Event
 
 2.  API (Rest API Express Framework Used)
 
@@ -25,14 +27,14 @@ The deployment scenario is as below:
 
 3.  Redis(Pub/Sub)
 
-    a. Cache
+    a. Cached existing inserted data
 
-    b. Publish To Worker Node
+    b. Publish new inserted POST task To Worker Node
 
 4.  Worker Node
 
-    a. Subscriber
+    a. Subscriber from Published, When any new write request comes subscriber gets notices from the publisher to write on DB.
 
 5.  Database
 
-    a. All inserted date will Save here
+    a. All inserted (Post request) data will Save here
