@@ -23,7 +23,7 @@ Explanation:
 
         Development Environment:
 
-            a. React Application
+            a. React Application (React is The library for web and native user interfaces)
 
                 1. One form
                 2. Input Field
