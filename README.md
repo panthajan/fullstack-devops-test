@@ -41,7 +41,7 @@ Explanation:
 
     a. Cached existing inserted data
 
-    b. Publish new inserted POST task To Worker Node
+    b. Publish new inserted POST analysis task To Worker Node
 
 5.  Worker Node
 
