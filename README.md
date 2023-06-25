@@ -32,7 +32,7 @@ Explanation:
                 2. Input Field
                 3. Use OnChange Event
 
-3.  API (Rest API Express Framework Used)
+3.  API (Pub) (Rest API Express Framework Used)
 
     a. Get( Show existing Data from News List)
 
@@ -44,7 +44,7 @@ Explanation:
 
     b. Publish new inserted POST analysis task To Worker Node
 
-5.  Worker Node
+5.  Worker Node (Sub)
 
     a. Subscriber from Published, always listening When any new write request comes, the subscriber gets notices from the publisher to write on DB.
 
