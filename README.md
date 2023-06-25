@@ -45,7 +45,7 @@ Explanation:
 
 5.  Worker Node
 
-    a. Subscriber from Published, always listening When any new write request comes subscriber gets notices from the publisher to write on DB.
+    a. Subscriber from Published, always listening When any new write request comes, the subscriber gets notices from the publisher to write on DB.
 
 6.  Database (MySQL DB)
 
