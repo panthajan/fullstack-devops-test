@@ -18,7 +18,9 @@ Explanation:
 
 1.  Client App Frontend (Load balancer Nginx)
     We can do on the frontend;
+    
     a. View News List
+    
     b. News Create
 
         Development Environment:
@@ -29,22 +31,22 @@ Explanation:
                 2. Input Field
                 3. Use OnChange Event
 
-2.  API (Rest API Express Framework Used)
+3.  API (Rest API Express Framework Used)
 
     a. Get( Show existing Data from News List)
 
     b. POST ( Insert data to News List)
 
-3.  Redis(Pub/Sub)
+4.  Redis(Pub/Sub)
 
     a. Cached existing inserted data
 
     b. Publish new inserted POST task To Worker Node
 
-4.  Worker Node
+5.  Worker Node
 
     a. Subscriber from Published, always listening When any new write request comes subscriber gets notices from the publisher to write on DB.
 
-5.  Database (MySQL DB)
+6.  Database (MySQL DB)
 
     a. All inserted (Post request) data will Save here
