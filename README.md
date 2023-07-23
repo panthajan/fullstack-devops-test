@@ -1,4 +1,4 @@
-                                                ===Full stack Microservice Application Deployment===
+                              ===Full stack Microservice Application Deployment===
 
 The deployment scenario is as below:
 
